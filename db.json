@@ -1,7 +1,11 @@
 {
   "bento-comments": [
-    { "id": 1, "author": "Автор 1", "date": "Число 1", "title": "Заголовок 1", "text": "...", "rating": 5},
-    { "id": 2, "author": "Автор 2", "date": "Число 2", "title": "Заголовок 2", "text": "...", "rating": 4},
-    { "id": 3, "author": "Автор 3", "date": "Число 3", "title": "Заголовок 3", "text": "...", "rating": 1},
+    {
+      "id": 1,
+      "author": "Автор 1",
+      "title": "Заголовок 1",
+      "text": "...",
+      "rating": 5
+    }
   ]
 }
