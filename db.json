@@ -1,11 +1,11 @@
 {
-  "bento-comments": [
+  "posts": [
     {
       "id": 1,
-      "author": "Автор 1",
-      "title": "Заголовок 1",
-      "text": "...",
-      "rating": 5
+      "title": "hello"
     }
-  ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
