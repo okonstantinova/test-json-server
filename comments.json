@@ -1,0 +1,14 @@
+{
+  "bento-comments": [
+    {
+      "id": 1, 
+      "author": "Автор", 
+      "date": "Дата", 
+      "title": "Название", 
+      "text": "Отзыв", 
+      "rating": 5
+    }
+  ]
+}
+
+
